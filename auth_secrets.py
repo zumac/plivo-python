@@ -1,0 +1,2 @@
+auth_id = 'MAM2M3MZVJYWFHMMY1MM'
+auth_token = 'ZDAxNzE2ZjZlZGY4ZDM5NWJmNzBkMjgzMzI2OGI5'
